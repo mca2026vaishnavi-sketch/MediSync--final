@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ms_screen_pad_h">20dp</dimen>
+    <dimen name="ms_screen_pad_v">16dp</dimen>
+    <dimen name="ms_radius_card">20dp</dimen>
+    <dimen name="ms_radius_input">14dp</dimen>
+    <dimen name="ms_radius_button">16dp</dimen>
+    <dimen name="ms_input_height">54dp</dimen>
+    <dimen name="ms_button_height">54dp</dimen>
+    <dimen name="ms_touch_min">48dp</dimen>
+    <dimen name="ms_icon">22dp</dimen>
+    <dimen name="ms_icon_badge">44dp</dimen>
+    <dimen name="ms_header_height">56dp</dimen>
+    <dimen name="ms_nav_height">64dp</dimen>
+    <dimen name="ms_gap">12dp</dimen>
+</resources>

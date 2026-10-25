@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ms_screen_pad_h">72dp</dimen>
+</resources>

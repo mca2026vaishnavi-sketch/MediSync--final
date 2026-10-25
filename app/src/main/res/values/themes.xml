@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.MediSync" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/ms_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/ms_grad_end</item>
+        <item name="colorSurface">@color/ms_card_solid</item>
+        <item name="colorOnSurface">@color/ms_text</item>
+        <item name="android:colorAccent">@color/ms_primary</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowBackground">@drawable/ms_screen_bg</item>
+        <item name="android:textColorPrimary">@color/ms_text</item>
+        <item name="android:textColorSecondary">@color/ms_text_muted</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="Theme.MediSync" parent="Base.Theme.MediSync" />
+</resources>

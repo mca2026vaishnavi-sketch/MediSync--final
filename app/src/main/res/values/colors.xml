@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Legacy names kept so nothing referencing them breaks -->
+    <color name="black">#2D2A4A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="medisync_bg">#F1E8FF</color>
+    <color name="medisync_surface">#FFFFFF</color>
+    <color name="medisync_accent">#7B61E8</color>
+    <color name="medisync_text">#2D2A4A</color>
+    <color name="medisync_muted">#8E8AAB</color>
+
+    <!-- MediSync design tokens (from Figma frames) -->
+    <color name="ms_bg_top">#E7DEFF</color>
+    <color name="ms_bg_mid">#F1E6FF</color>
+    <color name="ms_bg_bottom">#FBE6F7</color>
+    <color name="ms_primary">#7B61E8</color>
+    <color name="ms_grad_start">#5F8BF2</color>
+    <color name="ms_grad_end">#B46BE8</color>
+    <color name="ms_text">#2D2A4A</color>
+    <color name="ms_text_muted">#8E8AAB</color>
+    <color name="ms_hint">#A9A5C2</color>
+    <color name="ms_card">#B8FFFFFF</color>
+    <color name="ms_card_solid">#FFFFFF</color>
+    <color name="ms_card_stroke">#D9FFFFFF</color>
+    <color name="ms_input_bg">#E6FFFFFF</color>
+    <color name="ms_input_stroke">#E4DCF7</color>
+    <color name="ms_divider">#EAE3F8</color>
+    <color name="ms_danger">#D8456B</color>
+    <color name="ms_badge_lavender">#E6DEFF</color>
+    <color name="ms_badge_pink">#FFE0EC</color>
+    <color name="ms_badge_blue">#DCEBFF</color>
+    <color name="ms_badge_mint">#D9F5EC</color>
+    <color name="ms_badge_peach">#FFE9D6</color>
+    <color name="ms_nav_inactive">#A9A5C2</color>
+</resources>
